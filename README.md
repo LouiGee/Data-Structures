@@ -14,8 +14,6 @@ Examination, 2 hours (50%)
 #### Web Technology Services - Deadline 24/03/2024
 #### Software Engineering Task - Deadline 01/04/2024
 
-
-
 ## Target hours revision 
 **Target**: 150 \
 **Current**: 2\
