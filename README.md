@@ -7,7 +7,6 @@ Examination, 2 hours (50%)
 
 ## Term Coursework Structure 
 
-
 #### Cyber Security - Deadline 22/02/2024
 #### Group Project Software Engineering - Deadline 28/02/2024
 #### Web Technology Services - Deadline 01/03/2024
